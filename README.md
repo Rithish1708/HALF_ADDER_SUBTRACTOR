@@ -1,6 +1,6 @@
 # NAME : Rithish.R
 # REG.NO : 24900403
- # EXPERIMENT-3: Implementation of HALF ADDER AND SUBTRACTOR
+ # EXPERIMENT-3: IMPLEMENTATION OF HALF ADDER AND SUBTRACTOR
  Implementation-of-Half-Adder-and-Half Subtractor-circuit
 # AIM:
  To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog
